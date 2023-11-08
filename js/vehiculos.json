@@ -1,0 +1,58 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "color": "Blanco",
+        "precio": 17000.00,
+        "anio": 2022
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "color": "Rojo",
+        "precio": 20000.00,
+        "anio": 2021
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "color": "Negro",
+        "precio": 9000.00,
+        "anio": 2017
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Ka",
+        "color": "Gris",
+        "precio": 7000.00,
+        "anio": 2017
+    },
+    {
+        "marca": "Peugeot",
+        "modelo": "207",
+        "color": "Azul",
+        "precio": 10000.00,
+        "anio": 2019
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "color": "Verde",
+        "precio": 4000.00,
+        "anio": 2010
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Corsa",
+        "color": "Blanco",
+        "precio": 6000.00,
+        "anio": 2009
+    },
+    {
+        "marca": "Citroen",
+        "modelo": "C4",
+        "color": "Gris",
+        "precio": 5000.00,
+        "anio": 2008
+    }
+]
