@@ -48,9 +48,9 @@ function eliminarVehiculo(index) {
 
 
 
-// Cargar datos desde un archivo JSON
+
 function cargarDatosDesdeJSON() {
-    fetch('../js/vehiculos.json')  // Reemplaza con la ruta correcta de tu archivo JSON
+    fetch('../js/vehiculos.json')  
         .then(response => response.json())
         .then(data => {
             vehiculosEnVenta.push(...data);
